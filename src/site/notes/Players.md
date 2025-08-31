@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/players/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/players/"}
 ---
 
 **FOR  BETRAYING LOYALIST**
