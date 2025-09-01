@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/ancestry/pixie/"}
 ---
 
-# Pixies
-
 Pixies never die, but they can suffer. Their lifeforce is sustained by ether—a mystical energy that flows through the mountain’s veins. When the Ether Lake was sealed long ago, the pixies fell into a catatonic dormant state, frozen in time.
 
 Recently, a leak from the Echo Gate in a nearby town has released enough ether to stir the colony once more. Some pixies have begun to awaken, their memories fragmented and their magic unstable. They speak of the lake’s sealing as a betrayal, and their revival may hold the key to restoring balance—or unleashing forgotten powers.

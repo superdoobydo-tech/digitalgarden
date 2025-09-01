@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-crater/town/contents/"}
+{"dg-publish":true,"permalink":"/the-crater/town/contents/","tags":["gardenEntry"]}
 ---
 
 Region
@@ -27,7 +27,7 @@ Locales
     - [[Pixie Commune\|Pixie Commune]]
 - [[The Crater/Sutter Commune\|Sutter Commune]]
 
-
+[[Players Linkz\|Players Linkz]]
 
 
 
