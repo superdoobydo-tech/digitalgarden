@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-crater/town/contents/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/the-crater/town/contents/"}
 ---
 
 Region
