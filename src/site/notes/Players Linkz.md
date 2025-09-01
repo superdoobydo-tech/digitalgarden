@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/players-linkz/","tags":["dg-home"]}
+{"dg-publish":true,"permalink":"/players-linkz/","tags":["#dg-home"]}
 ---
 
 [[Ancestry/Pixie\|Pixie]]**FOR  BETRAYING LOYALIST**
