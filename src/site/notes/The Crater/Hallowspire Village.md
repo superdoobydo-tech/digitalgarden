@@ -10,11 +10,11 @@ The village is utilitarian, its architecture bleak and oppressive, many building
 
 
 **It is divided into 5 districts**
-    - [[The Crater/Town/South Quarter (Hallowspire Village)\|South: Housing and Warehouse]]
-    - [[The Crater/Town/Central\|Central: Farming and Government Tower]]
-    - [[The Crater/Town/Gravemarket - East Quarter Engineering and Shopping (Hallowspire Village)\|East: Engineering and Shopping]]
-    - [[The Crater/Town/Stonegate - North Quarter Gate Defense and Militia Training\|North: Gate Defense and Militia Training]]
-    - [[The Crater/Town/Ashveil - West Quarter Arts and Entertainmen (Hallowspire Village)\|West: Arts and Entertainment]]
+    - [[The Crater/Town/(Central) Virehold - Farming and Government Tower\|(Central) Virehold - Farming and Government Tower]] 
+    - [[The Crater/Town/(North) Stonegate - Gate Defense and Militia Training\|(North) Stonegate - Gate Defense and Militia Training]]
+    - [[The Crater/Town/(East) Gravemarket - Engineering and Shopping\|(East) Gravemarket - Engineering and Shopping]]
+    - [[The Crater/Town/(West) Ashveil - Arts and Entertainment\|(West) Ashveil - Arts and Entertainment]] 
+    - [[The Crater/Town/(South) Hollowmere - Quarter Housing and Warehouse\|(South) Hollowmere - Quarter Housing and Warehouse]]
 
 ## Aesthetic and Atmosphere
 
