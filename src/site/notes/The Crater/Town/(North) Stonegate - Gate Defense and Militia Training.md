@@ -9,6 +9,10 @@
     - [[The Crater/Town/(East) Gravemarket - Engineering and Shopping\|(East) Gravemarket - Engineering and Shopping]]
     - [[The Crater/Town/(West) Ashveil - Arts and Entertainment\|(West) Ashveil - Arts and Entertainment]] 
     - [[The Crater/Town/(South) Hollowmere - Quarter Housing and Warehouse\|(South) Hollowmere - Quarter Housing and Warehouse]]
+
+## [[The Crater/Whispering Woods\|Whispering Woods]]
+
+
 #### Stonegate - North Quarter: Gate Defense and Militia Training
 The militarized edge of town, where recruits train under harsh conditions and fortifications guard against external threats. The gate is both a barrier and a symbol of isolation. Discipline is strict, and failure is punished severely.
 

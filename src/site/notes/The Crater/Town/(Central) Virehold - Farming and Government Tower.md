@@ -9,6 +9,8 @@
     - [[The Crater/Town/(East) Gravemarket - Engineering and Shopping\|(East) Gravemarket - Engineering and Shopping]]
     - [[The Crater/Town/(West) Ashveil - Arts and Entertainment\|(West) Ashveil - Arts and Entertainment]] 
     - [[The Crater/Town/(South) Hollowmere - Quarter Housing and Warehouse\|(South) Hollowmere - Quarter Housing and Warehouse]]
+
+## [[The Crater/Town/Cities and Sectors/Widow's Peak Caverns (Venrathi Stronghold)\|Widow's Peak Caverns (Venrathi Stronghold)]]
 #### Virehold - Central: Farming and Government Tower
 
 The heart of Hallowspire, where the town's meager agricultural efforts struggle against poor soil and harsh conditions. The farms are arranged in a circular pattern surrounding the imposing Government Tower, which looms over the fields as a symbol of control and surveillance. Council officials and enforcers operate from here, issuing decrees and monitoring the populace. Food is heavily guarded, with rations distributed under strict supervision and hoarding punished severely.
