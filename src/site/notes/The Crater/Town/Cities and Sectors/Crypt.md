@@ -46,17 +46,64 @@ This dungeon reveals the hidden legacy of Fenwick and Liora, and the secrets of 
         
 4. **Lore Room: Liora’s Hymn**
     
-    _A domed chamber with resonant stone panels and a central pedestal. The music box rests atop a velvet cushion, surrounded by faded frescoes of Liora singing to a crowd beneath a broken moon._
+    _A domed chamber with resonant stone panels and a central pedestal. The music box rests atop a velvet cushion, but a faint barrier of moonlight shimmers around it, preventing any who approach from lifting it._
+
+##### The Barrier
+Across the front of the pedestal, seven shallow grooves spell out the phrase
+
+Code
+
+```
+E _ _ E _ _ L   _ _ R _ A
+```
+
+but several letters have crumbled away. A silver thread of moonlight pulses, holding the box in place.
+
+A whisper carved into the stone rim reads: “Only her final song can break this seal.”
     
     - Contains the music box that teaches Liora's final song.
         
-5. **Broken Automaton Room**
-    
-    _A cluttered workshop with scattered tools, cracked lenses, and half-finished gearwork. The automaton slumps against a wall, its chest cavity open and sparking. A schematic scroll lies nearby, half-burned._
-    
-    - Repairing it grants a reward.
-        
-    - Failure causes it to attack (2d8 damage) and self-destruct.
+
+5. Broken Automaton Room (Revised Puzzle)
+
+_A cluttered workshop with scattered tools, cracked lenses, and half-finished gearwork. The automaton slumps against a wall, its chest cavity open and sparking. A half-burned schematic scroll lies nearby, its notes obscured by soot._
+
+Determine which material and voltage setting each component needs to bring the automaton back to life without triggering its self-destruct.
+
+### Categories
+
+- Components: Gear, Lens, Spring, Circuit
+- Materials: Brass, Steel, Glass, Copper
+- Voltage Settings: Low, Medium, High, Burst
+
+### Clues
+
+1. The Steel piece runs on High voltage.
+2. The component made of Copper requires Medium voltage.
+3. The Gear isn’t crafted from Brass.
+4. The Glass component fires at Burst voltage.
+5. The Lens does not use Burst voltage.
+6. The Circuit is made of Brass.
+
+### Empty Logic Grid
+
+#### Component vs. Material
+
+|Component|Brass|Steel|Glass|Copper|
+|---|---|---|---|---|
+|Gear|||||
+|Lens|||||
+|Spring|||||
+|Circuit|||||
+
+#### Component vs. Voltage
+
+|Component|Low|Medium|High|Burst|
+|---|---|---|---|---|
+|Gear|||||
+|Lens|||||
+|Spring|||||
+|Circuit|||||
         
 6. **Dark Room**
     

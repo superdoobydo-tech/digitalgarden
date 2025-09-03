@@ -10,7 +10,7 @@ The village is utilitarian, its architecture bleak and oppressive, many building
 
 
 **It is divided into 5 districts**
-    - [[The Crater/Town/(Central) Virehold - Farming and Government Tower\|(Central) Virehold - Farming and Government Tower]] 
+    -[[The Crater/Town/(Central) Virehold - Farming and Government Tower\|(Central) Virehold - Farming and Government Tower]] 
     - [[The Crater/Town/(North) Stonegate - Gate Defense and Militia Training\|(North) Stonegate - Gate Defense and Militia Training]]
     - [[The Crater/Town/(East) Gravemarket - Engineering and Shopping\|(East) Gravemarket - Engineering and Shopping]]
     - [[The Crater/Town/(West) Ashveil - Arts and Entertainment\|(West) Ashveil - Arts and Entertainment]] 

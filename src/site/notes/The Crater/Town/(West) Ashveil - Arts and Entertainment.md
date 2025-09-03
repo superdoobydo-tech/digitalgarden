@@ -22,19 +22,7 @@ This town is a crucible of suffering and ambition, perfect for grimdark adventur
 
 [[The Crater/Town/Cities and Sectors/Liora’s Cup Vow and Verse\|Liora’s Cup Vow and Verse]]
 
-## Gloamspire Hall (Tony Marinara)
-The centerpiece of Ashveil, this towering, iron-latticed amphitheater is where the Crimson Council's sanctioned performances are held. The hall is managed by **Maestra Calvara Deyne**, a severe but celebrated conductor. Every surface of the hall is etched with the Council's sigils, serving as a reminder that art exists only to serve doctrine.
-
-- **Secret:** Beneath the stage, in forgotten catacombs, Maestra Calvara Deyne keeps a **hidden archive of unsanctioned works**. While she appears to be the Council's most devoted servant, she is secretly a custodian of forbidden truth, waiting for the day art can be free again.
-
-
-
-
-
-
-# Mysteries
-
-## **What Happened to the Artists?**
+## What Happened to the Artists?
 
 Sutter and his followers developed limited magical abilities due to a leak in the Ether Lake's echo chamber while living in Hallowspire. In the weeks before the ban, Sutter's powers intensified—he entered fugue states and painted visions of the future.
 
@@ -52,17 +40,21 @@ Romors and Hear say
     
 - The tavern knows. Jorren’s ale tastes different. He’s seen speaking to shadows. The tavern’s cellar door is always locked now.
 
-
-
-
-### Sutters Room
+### [Sutters Room]()
 
 - _The mayor, hunched and shadowed, stealing coins from a village coffer—his eyes hollow, his hands stained with ink and blood._
     
-- _Elric, the Tinkerer, curled in sleep beneath the earth, surrounded by glowing runes and fractured machinery—his breath syncing with the pulse of the Echo Gate._
+- _Elric, the Tinkerer, curled in sleep beneath the earth, surrounded by glowing runes and fractured machinery—his breath syncing with the pulse of the a giant Gate._
     
-- _The western ruins, bathed in divine light, with silhouettes of unknown figures watching from the treeline._
     
 - _The world itself, split down the middle—one half aflame, the other drowned in stars and silence._
     
 - _A player character, depicted in the exact clothes they wore upon arrival, standing at the edge of a broken bridge, staring into the Ether Lake._
+-
+    - <font color="#e36c09">- A portrait of Calvara Deyne holding Tonys eyes open at an upside-down music book of the anthem rest atop of a concert (whatever instrument you play)- Let them here the absurdity - inside Gloamspire Hall</font>
+
+## Gloamspire Hall (Tony Marinara)
+The centerpiece of Ashveil, this towering, iron-latticed amphitheater is where the Crimson Council's sanctioned performances are held. The hall is managed by **Calvara Deyne**, a severe but celebrated conductor. Every surface of the hall is etched with the Council's sigils, serving as a reminder that art exists only to serve doctrine.
+
+- **Secret:** Beneath the stage, in forgotten catacombs, Maestra Calvara Deyne keeps a **hidden archive of unsanctioned works**. While she appears to be the Council's most devoted servant, she is secretly a custodian of forbidden truth, waiting for the day art can be free again.
+

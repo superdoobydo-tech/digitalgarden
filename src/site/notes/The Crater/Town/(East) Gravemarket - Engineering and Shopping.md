@@ -19,7 +19,7 @@ A hub of innovation and commerce, where tinkerers and tradespeople work in clutt
 **Tinkermaster Drell Varn**: A brilliant but paranoid inventor, Drell Varn oversees all engineering and technological activity. He is known for his obsession with control and his tendency to dismantle anything he cannot understand. His workshop is a maze of gears, wires, and surveillance devices.
 
 
-#### **Lazy Tree Brewery (hexii)**
+#### **Lazy Tree Brewery (hexii)** THEY ARE GANNA GET LITA
 
 Located in the heart of Gravemarket, this brewery is known for producing the best (and only) beer, mead, and vodka in Hallowspire. It is run by the **Wilson family**, who have a long history with the Glass family, owners of the tavern next door.
 
