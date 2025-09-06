@@ -10,7 +10,7 @@
     - [[Fantasy/The Crater/Town/(West) Ashveil - Arts and Entertainment\|(West) Ashveil - Arts and Entertainment]] 
     - [[Fantasy/The Crater/Town/(South) Hollowmere - Quarter Housing and Warehouse\|(South) Hollowmere - Quarter Housing and Warehouse]]
 
-[[The Lazy Tree Brewery\|The Lazy Tree Brewery]]
+### [[The Lazy Tree Brewery (Lexi)\|The Lazy Tree Brewery (Lexi)]]
 ## [[Fantasy/The Crater/Stilldeep Caverns\|Stilldeep Caverns]]
 #### Gravemarket - East Quarter: Engineering and Shopping
 
