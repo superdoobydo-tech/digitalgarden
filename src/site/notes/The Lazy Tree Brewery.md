@@ -1,65 +1,75 @@
 ---
-{"dg-publish":true,"permalink":"/the-lazy-tree-brewery/"}
+{"dg-publish":true,"permalink":"/the-lazy-tree-brewery/","tags":["lexi"]}
 ---
 
-## The Bronze Buck Tavern
+## 🦌 The Bronze Buck Tavern
 
-### 📍 Location & Legacy
+### 🏙️ Overview
 
-- **Address:** Corner of Dirge and Center Street, Hallowspire
+A long-standing establishment in the heart of **Hallowspire**, located at the corner of **Dirge and Center Street**. Flanked by **The Lazy Tree Brewery** and **The Wheat Family Bakery**, it serves as a hub for working-class citizens, adventurers, and local drama. Built beside its suppliers by design, the tavern has existed for as long as Hallowspire itself.
+
+### 🪵 Exterior Features
+
+- **Location:** Corner of Dirge and Center Street
     
-- **Adjacent Establishments:**
+- **Signage:** Wooden sign with a carved buck's head above the front door
     
-    - _The Lazy Tree Brewery_ – Weekly ale shipments
-        
-    - _The Wheat Family Bakery_ – Daily bread and pastry deliveries
-        
-- **Construction:** Originally cobblestone; now mostly wood due to generations of repairs
+- **Suppliers:** Daily bread and pastries from the bakery; weekly ale from the brewery
     
-- **Signage:** A carved wooden buck’s head hangs above the front door
-    
-- **Age:** As old as Hallowspire itself
-    
-- **Clientele:** Heroes, villains, and mostly working-class citizens seeking joy and song after bleak labor
+- **Construction:** Originally cobblestone, now mostly wood due to generations of repair and upkeep
     
 
-### 🛋️ Interior Description
+### 🍻 Interior Features — _"Furniture Chaos"_
 
-|Feature|Details|
-|---|---|
-|**Bar**|Long stained wooden bar along the western wall; original wood still intact|
-|**Storage**|Barrels of ale, mead, and beer behind the bar|
-|**Tankards**|Lined on shelves above the bar; cleaned hastily between uses|
-|**Tables**|Mismatched small tables; one long table for large parties; replaced as needed|
-|**Facilities**|Door to outdoor latrines; stairs down to basement and up to Glass family residence|
-|**Stage**|Small bard’s stage in the back corner opposite the bar; council-approved music nightly|
-|**Statue**|Large bronze buck statue directly in front of the entrance; built into the floorboards; touched for luck by patrons (and crawling with germs)|
+- **Bar:** Long stained wooden bar along the western wall, original wood still intact
+    
+- **Storage:** Barrels of ale, mead, and beer behind the bar
+    
+- **Tankards:** Lined on shelves above the bar, quickly “cleaned” for reuse
+    
+- **Tables:** Mismatched small tables and one long table for large parties
+    
+- **Facilities:** Door to outdoor latrines; stairs to basement and Glass family residence
+    
+- **Stage:** Small bard's stage in the back corner opposite the bar
+    
+- **Statue:** Large bronze buck statue directly in front of the entrance, built into the wooden floorboards
+    
 
-### 🎭 Staff Roster
+### 🎶 Atmosphere
+
+- **Clientele:** Mostly working-class patrons, with occasional heroes and villains
+    
+- **Vibe:** Joyful and musical respite from bleak routines
+    
+- **Music:** Council-approved performances nightly
+    
+- **Tradition:** Patrons touch the buck statue for good luck and fortune upon entering
+    
+
+### 👥 Staff Roster — _Like a Family_
 
 |Name|Role|Description|
 |---|---|---|
-|**Irene Glass**|Owner|See Irene Glass Bio|
-|**Patrick**|Barkeep & Bouncer|Heavyset, bald, brown beard; intimidating but loyal|
+|**Patrick**|Barkeep & Bouncer|Heavyset, bald, brown beard; intimidating presence|
 |**Wendy**|Server|Short, spry redhead; energetic and cheerful|
 |**Leo**|Cook|Tall, older man with salt and pepper hair; grumpy but passionate|
 |**Myra Brightnote**|Bard|Quiet, blonde, angelic voice; mysterious and reserved|
 |**Daren Ashbrook**|Former Bard|Quit on short notice; whereabouts unknown|
+|**Irene Glass**|Owner|34 years old, shoulder-length onyx hair, dark blue eyes; inherited the tavern from her father and runs it alone after her brother Thomas mysteriously left town. Fiercely loyal, kind to patrons and staff, but secretly moonlights as a thief to keep the tavern afloat. Agile, confident, and deadly with a short bow.|
 
-### 🎲 Ritual & Lore
-
-- **Buck’s Blessing:** Patrons touch the bronze buck statue upon entry for good luck and fortune. This ritual is practiced by nearly every regular.
-    
-- **Council Music:** Only approved songs may be played on the bard’s stage. Deviations may provoke fines, rumors, or worse.
-    
-- **Furniture Chaos:** Tables are replaced as needed, leading to a chaotic, mismatched aesthetic that reflects the tavern’s lived-in charm.
 ### 🧩 Adventure Hooks
 
-|Hook|Prompt|
-|---|---|
-|**Buck’s Blessing**|Touching the statue may grant a boon, curse, or vision (roll d6)|
-|**Missing Bard**|Daren Ashbrook’s sudden departure left questions—was it political, personal, or supernatural?|
-|**Basement Secrets**|What lies beneath the tavern? Smuggling routes? Forgotten relics? A hidden shrine?|
-|**Unpaid Tabs**|Some patrons owe large debts—who are they really working for? What leverage do they hold?|
-|**Council Music**|What happens when Myra plays a forbidden song? Could it awaken something old?|
-|**Furniture Memory**|One mismatched table bears a carved message from a long-dead patron—what does it mean?|
+- **Buck's Blessing:** Patrons who touch the statue may receive a minor boon or curse
+    
+- **Missing Bard:** Daren Ashbrook's sudden departure raises questions
+    
+- **Secret Stairs:** The basement and residence stairs may hide secrets or lead to encounters
+    
+- **Unpaid Tabs:** Patrons with large debts may be involved in shady dealings
+    
+- **Council Music:** What happens when unapproved music is played?
+    
+- **Moonlight Thief:** Irene's secret life as a thief could entangle players in heists, moral dilemmas, or faction intrigue
+    
+- **Family Ghosts:** Irene used to visit her brother's grave before it was forbidden—his disappearance and the graveyard's ban may hold deeper mysteries
