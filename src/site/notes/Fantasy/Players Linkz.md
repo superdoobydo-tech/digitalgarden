@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/fantasy/players-linkz/","tags":["dg-home"]}
+{"dg-publish":true,"permalink":"/fantasy/players-linkz/","tags":["#dg-home"]}
 ---
 
 [[Fantasy/Tony\|Tony]]
@@ -104,7 +104,7 @@ Her brother Thomas vanished mysteriously, leaving her to manage the tavern alone
 
 Born into the pale-blooded Vale family, Cassandra was marked by beauty and suspicion. Her brother’s death — a Council sacrifice — was no accident. She spoke out, was punished, and now serves High Executor Thorne as a symbol of reformed obedience.
 
-- **Public Role**: Dutiful assistant in the Government Tower
+- **Public Role**: Dutiful Mouthpiece for the Crimson Council
     
 - **Private Truth**: Scarred survivor, quiet rebel
     
