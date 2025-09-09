@@ -11,7 +11,7 @@ Locales
     - [[Fantasy/The Crater/Town/(Central) Virehold - Farming and Government Tower\|Central: Farming and Government Tower]]
     - [[Fantasy/The Crater/Town/(East Lexi) Gravemarket - Engineering and Shopping\|East: Engineering and Shopping]]
     - [[Fantasy/The Crater/Town/(North) Stonegate - Gate Defense and Militia Training\|North: Gate Defense and Militia Training]]
-    - [[Fantasy/The Crater/Town/(West) Ashveil - Arts and Entertainment\|West: Arts and Entertainment]]
+    - [[Fantasy/The Crater/Town/(West Tony) Ashveil - Arts and Entertainment\|West: Arts and Entertainment]]
 - [[Fantasy/The Crater/Stilldeep Caverns\|Stilldeep Caverns]]
     - [[Fantasy/The Crater/Town/Cities and Sectors/Stilldeep Trek-Dungeon\|Stilldeep Trek-Dungeon]]
     - [[Fantasy/The Crater/Town/Cities and Sectors/Echo Vault\|Echo Vault]]

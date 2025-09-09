@@ -3,7 +3,7 @@
 ---
 
 [[Fantasy/Tony\|Tony]]
-[[Lexi\|Lexi]]
+[[Fantasy/Lexi\|Lexi]]
 ## Setting Rules
 
 | Rule                      | Description                                                                                                                    |
@@ -74,7 +74,7 @@ mindmap
 
 ---
 
-## 🩸 Irene Glass — The Tavernkeeper Thief
+## 🍺 Irene Glass — The Tavernkeeper Thief
 
 Owner of the Bronze Buck Tavern in Gravemarket, Irene is a fiercely loyal woman with shoulder-length onyx hair and dark blue eyes. She stands 5'7" with a slender frame and has run the tavern since inheriting it from her father. Though beloved by the people of Hallowspire, Irene struggles to keep the business afloat.
 
@@ -100,15 +100,14 @@ Her brother Thomas vanished mysteriously, leaving her to manage the tavern alone
     - Knows Tony as the Crimson Council's anthemist
 ---
 
-## 🩸 Cassandra Vale — The Scarred Witness
-
+## 📣 Cassandra Vale — Voice Bearer of the Council
 Born into the pale-blooded Vale family, Cassandra was marked by beauty and suspicion. Her brother’s death — a Council sacrifice — was no accident. She spoke out, was punished, and now serves High Executor Thorne as a symbol of reformed obedience.
 
 - **Public Role**: Dutiful Mouthpiece for the Crimson Council
     
 - **Private Truth**: Scarred survivor, quiet rebel
     
-- **Asset**: Coded ledger referencing “The Vale Canticle”
+- **Asset**: Sutter Cain’s sketchbook, found tucked into her coat after a routine inspection
     
 Behind her eyepatch, rebellion simmers. Her loyalty is a mask, and her mind is sharp with defiance.
 ### Connections:

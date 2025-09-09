@@ -7,7 +7,7 @@
     - [[Fantasy/The Crater/Town/(Central) Virehold - Farming and Government Tower\|(Central) Virehold - Farming and Government Tower]] 
     - [[Fantasy/The Crater/Town/(North) Stonegate - Gate Defense and Militia Training\|(North) Stonegate - Gate Defense and Militia Training]]
     - [[Fantasy/The Crater/Town/(East Lexi) Gravemarket - Engineering and Shopping\|(East Lexi) Gravemarket - Engineering and Shopping]]
-    - [[Fantasy/The Crater/Town/(West) Ashveil - Arts and Entertainment\|(West) Ashveil - Arts and Entertainment]] 
+    - [[Fantasy/The Crater/Town/(West Tony) Ashveil - Arts and Entertainment\|(West Tony) Ashveil - Arts and Entertainment]] 
     - [[Fantasy/The Crater/Town/(South) Hollowmere - Quarter Housing and Warehouse\|(South) Hollowmere - Quarter Housing and Warehouse]]
 
 ## [[Fantasy/The Crater/Whispering Woods\|Whispering Woods]]
