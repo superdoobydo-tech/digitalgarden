@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/fantasy/the-lazy-tree-brewery-lexi/","tags":["#lexi"]}
+{"dg-publish":true,"permalink":"/fantasy/the-lazy-tree-brewery-lexi/","tags":["lexi"]}
 ---
 
 ## 🦌 The Bronze Buck Tavern

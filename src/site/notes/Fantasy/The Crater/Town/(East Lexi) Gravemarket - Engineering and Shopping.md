@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/fantasy/the-crater/town/east-lexi-gravemarket-engineering-and-shopping/","tags":["#lexi"]}
+{"dg-publish":true,"permalink":"/fantasy/the-crater/town/east-lexi-gravemarket-engineering-and-shopping/","tags":["lexi"]}
 ---
 
 - [[Fantasy/The Crater/Hallowspire Village\|Hallowspire Village]]

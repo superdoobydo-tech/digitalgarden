@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/fantasy/the-crater/hallowspire-village/","tags":["#Region/TheCrater/Town","#Hallowspirevillage"]}
+{"dg-publish":true,"permalink":"/fantasy/the-crater/hallowspire-village/","tags":["Region/TheCrater/Town","Hallowspirevillage"]}
 ---
 
 Region

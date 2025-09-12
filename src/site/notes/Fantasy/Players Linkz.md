@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/fantasy/players-linkz/","tags":["#dg-home"]}
+{"dg-publish":true,"permalink":"/fantasy/players-linkz/","tags":["dg-home"]}
 ---
 
 [[Fantasy/Tony\|Tony]]

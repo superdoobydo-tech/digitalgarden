@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/fantasy/the-crater/forgotten-cemetery/","tags":["#thecrater","#cryptid","#Dungeon","#mainquest","#lore"]}
+{"dg-publish":true,"permalink":"/fantasy/the-crater/forgotten-cemetery/","tags":["thecrater","cryptid","Dungeon","mainquest","lore"]}
 ---
 
 

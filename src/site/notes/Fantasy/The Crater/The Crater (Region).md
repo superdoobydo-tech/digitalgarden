@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/fantasy/the-crater/the-crater-region/","tags":["#Region","#Hallowspirevillage"]}
+{"dg-publish":true,"permalink":"/fantasy/the-crater/the-crater-region/","tags":["Region","Hallowspirevillage"]}
 ---
 
 # Locations
