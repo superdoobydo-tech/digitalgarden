@@ -189,3 +189,18 @@ Now, the elves remain scattered and bitter, clinging to ruined traditions in iso
         
     - Mindrotters
         
+## Historical Background: The Lunari and the Whispering Woods
+
+Long ago, the Lunari—telepathic wanderers marked by constellation scars and dream-born insight—built their society deep within the Whispering Woods. Their cities shimmered with moonstone towers, memory gardens, and silent sanctuaries, all woven into the forest’s natural rhythms. Rejecting the rigid hierarchies of other elven castes, the Lunari embraced introspection, emotional communion, and symbolic storytelling. They were dream interpreters, memory keepers, and silent observers—guardians of the psychic veil between life and death.
+
+But the forest itself was never passive.
+
+The Whispering Woods was a living entity—a vast, sentient biomass of root, sinew, and spectral memory. The Lunari discovered this presence and, in their pursuit of isolation and protection, weaponized it. Through a ritual known as the Echo Root, they psychically grafted their thoughts and emotions into the forest, binding it to their will. The woods became a barrier, a guardian, a psychic labyrinth that repelled outsiders and preserved Lunari secrets.
+
+For centuries, the forest obeyed.
+
+But the grafts grew unstable. The biomass, once a neutral force of nature, began to mutate under the weight of Lunari emotion and ancestral memory. It absorbed not only intruders, but the Lunari themselves. Sanctuaries collapsed. Graves were desecrated. Minds were consumed.
+
+The Maw Beneath awakened—a grotesque fusion of memory and matter that turned on its creators.
+
+Now, the ruins of Lunari civilization lie buried within the Whispering Woods, haunted by echoes of their own making. The few Lunari who remain have been transformed into Silver-Eyed Watchers—silent slaves bound to the Maw’s will, tending the forest with hollow devotion. Neither living nor dead, they are custodians of a legacy that devoured itself.
