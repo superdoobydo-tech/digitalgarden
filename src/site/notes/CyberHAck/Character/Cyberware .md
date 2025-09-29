@@ -80,3 +80,38 @@ Narrative Consequences:
 • 	Difficulty connecting with Touchstones
 • 	Increased susceptibility to compulsions
 This mechanic reinforces the core theme: the more you enhance, the more you risk becoming something else.
+
+
+### ⚙️ Determining Cyberware Rating
+
+Cyberware Rating reflects how deeply a character is modified by synthetic enhancements. It influences narrative tone, potential Suffer increases, and Humanity degradation.
+
+#### 🧮 Starting Cyberware Rating
+
+- **Default Starting Rating**: 1  
+- **Background Influence**: Some backgrounds begin with higher Cyberware Ratings:
+  - **Corpo, Hacker, Synth, Drone Tech**: Start at **2**
+  - **Street Doc, Splicer, Wraith**: Choose between **1 or 2**
+  - **Nomad, Scrapper, Archivist, Cultist, Gangster**: Start at **1**
+
+#### 📈 Increasing Cyberware Rating
+
+Cyberware Rating increases when characters:
+
+- Install new enhancements (especially invasive or high-tier mods)
+- Replace organic systems with synthetic ones
+- Accept black-market or unstable upgrades
+- Fail a **Suffer** roll while heavily augmented
+
+> Optional Rule: Every **3 installed cyberware modules** increases Cyberware Rating by **+1**
+
+#### 🧠 Cyberware Rating Effects
+
+| **Cyberware Rating** | **Narrative Impact** | **Humanity Risk** | **Suffer Sensitivity** |
+|----------------------|----------------------|-------------------|-------------------------|
+| 1                    | Minor enhancements   | None              | Low                     |
+| 2                    | Noticeable mods      | Possible loss     | Moderate                |
+| 3                    | Heavily augmented    | Humanity check    | High                    |
+| 4+                   | Post-human territory | Frequent loss     | Severe                  |
+
+> At **Rating 3+**, characters may begin to lose Touchstones or experience identity drift.
