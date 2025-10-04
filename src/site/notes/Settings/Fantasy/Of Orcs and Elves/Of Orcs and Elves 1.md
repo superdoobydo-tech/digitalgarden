@@ -233,7 +233,7 @@ In time, nearly all orc tribes chose to release their goblin slaves, granting th
 
 - Traits: Regenerative, slow, terrifying
     
-- Cultural Values: Endurance, memory, ancestral rage
+- Cultural Values: Endurance, memory
     
 - Flesh remembers—trolls believe every wound is a story, every scar a lesson
     
