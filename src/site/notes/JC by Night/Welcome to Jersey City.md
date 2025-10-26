@@ -41,8 +41,7 @@ Know the chain of command. Know who to trust. (Hint: no one).
     
 - **Sal "The Vest" Bianco (Toreador):** A gossip. He runs _The Gilded Cage_, a struggling nightclub the Prince declared "Elysium." Sal is desperate to please, which makes him a useful, if unreliable, source of street-level rumors.
     
-- **"Cutter" (Gangrel):** The "tunnel rat." Lives in the sewers and old PATH tunnels. Knows the undercity better than anyone. They trade information to the Sheriff in exchange for being left alone. If your business takes you underground, you'll have to deal with them.
-    
+
 
 ---
 
