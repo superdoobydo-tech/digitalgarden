@@ -4,7 +4,7 @@
 
 ## Welcome to Jersey City: A Coterie Briefing
 
-**File Under:** Barony of Jersey City, Provisional 
+**File Under:** A Friend
 **Date:** [Current Date, 1996] 
 **RE:** Your Assignment **Eyes Only**
 
@@ -16,7 +16,7 @@ This is Jersey City. It's a dead-end posting, a dumping ground, a one-square-mil
 
 You are not diplomats. You are not courtiers. You are the Prince's cleaners. Your job is to take out the trash, plug the leaks, and keep this whole sinking ship from dragging us—and the Masquerade—down into the muck.
 
-This is not a domain. It is an insult. Clean it up.
+This is not a domain. It is a dump. Clean it up.
 
 ---
 
