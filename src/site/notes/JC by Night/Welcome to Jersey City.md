@@ -37,7 +37,7 @@ Know the chain of command. Know who to trust. (Hint: no one).
 
 - **"Doc" Aris Thorne (Malkavian):** The city's "therapist." He runs the **Montgomery Wellness Center**, which is considered neutral ground. Everyone goes to him to unload. This means he knows _everything_. He's the Harpy and spymaster, all in one. Be very, very careful what you tell him.
     
-- **Dr. Evelyn Reed (Tremere):** The "consultant." She's the Warlock, sent by her Chantry to "observe." If something... _weird_... happens—ghosts, magic, blood sorcery—she's the one you call. She keeps to her books in the university library.
+- **Evelyn Reed (Tremere):** The "consultant." She's the Warlock, sent by her Chantry to "observe." If something... _weird_... happens—ghosts, magic, blood sorcery—she's the one you call. She keeps to her books in the university library.
     
 - **Sal "The Vest" Bianco (Toreador):** A gossip. He runs _The Gilded Cage_, a struggling nightclub the Prince declared "Elysium." Sal is desperate to please, which makes him a useful, if unreliable, source of street-level rumors.
     
