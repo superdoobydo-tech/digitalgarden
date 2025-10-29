@@ -67,3 +67,5 @@ The city is carved up. These are the other players.
 - **Turf:** All of **Hoboken**.
     
 - **The Problem:** She is a powerful, solitary elder who refuses to bow to the Camarilla _or_ the Sabbat. Her "one-vampire state" on our border is a screaming political headache for the Prince. She enforces her borders with lethal force. **Do. Not. Cross. Into. Hoboken.**
+
+
