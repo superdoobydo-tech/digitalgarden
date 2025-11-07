@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/jc-by-night/lore-and-setting/sabbat/people/bishop-kovic-lasombra-the-fanatical-general/","tags":["#Lasombra","#sabbat","#NPC"]}
+{"dg-publish":true,"permalink":"/jc-by-night/lore-and-setting/sabbat/people/bishop-kovic-lasombra-the-fanatical-general/","tags":["Lasombra","sabbat","NPC"]}
 ---
 
 ### **Bishop Kovic (Lasombra) - The Fanatical General**

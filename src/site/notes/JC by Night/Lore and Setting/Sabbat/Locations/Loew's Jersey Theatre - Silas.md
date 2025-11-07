@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/jc-by-night/lore-and-setting/sabbat/locations/loew-s-jersey-theatre-silas/","tags":["#sabbat","#haven","#Lasombra"]}
+{"dg-publish":true,"permalink":"/jc-by-night/lore-and-setting/sabbat/locations/loew-s-jersey-theatre-silas/","tags":["sabbat","haven","Lasombra"]}
 ---
 
 To call Silas's haven a "projection booth" is to miss the vast, echoing silence of the abandoned movie palace it overlooks. It is a personal training ground, a shadow-drenched sanctuary, and a monument to forgotten grandeur, all wrapped in the ironic decay that Silas finds so fitting. Located in the heart of Journal Square, it stands as a silent sentinel amidst the city's bustle, a perfect hideout for a "Shadow-Walker."

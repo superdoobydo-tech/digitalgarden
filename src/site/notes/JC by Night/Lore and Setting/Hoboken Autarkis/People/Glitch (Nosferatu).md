@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/jc-by-night/lore-and-setting/hoboken-autarkis/people/glitch-nosferatu/","tags":["#Vampire","#NPC","#HobAutarkis","#Nosferatu"]}
+{"dg-publish":true,"permalink":"/jc-by-night/lore-and-setting/hoboken-autarkis/people/glitch-nosferatu/","tags":["Vampire","NPC","HobAutarkis","Nosferatu"]}
 ---
 
 ### **"Glitch" (Nosferatu) - The Digital Spider**

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/jc-by-night/lore-and-setting/hoboken-autarkis/people/the-countess-alexia-vros-toreador/","tags":["#Vampire","#NPC","#HobAutarkis","#Autarkis"]}
+{"dg-publish":true,"permalink":"/jc-by-night/lore-and-setting/hoboken-autarkis/people/the-countess-alexia-vros-toreador/","tags":["Vampire","NPC","HobAutarkis","Autarkis"]}
 ---
 
 ### **"The Countess" Alexia Vros (Toreador) - The Solitary Sovereign**

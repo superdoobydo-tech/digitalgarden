@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/jc-by-night/lore-and-setting/anarch/locations/the-booth-trip/","tags":["#Anarch","#haven"]}
+{"dg-publish":true,"permalink":"/jc-by-night/lore-and-setting/anarch/locations/the-booth-trip/","tags":["Anarch","haven"]}
 ---
 
 ### **The Booth: Haven Details**

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/jc-by-night/lore-and-setting/anarch/locations/the-ticker-jinx/","tags":["#Anarch","#haven"]}
+{"dg-publish":true,"permalink":"/jc-by-night/lore-and-setting/anarch/locations/the-ticker-jinx/","tags":["Anarch","haven"]}
 ---
 
 ### **The Ticker: Haven Details**

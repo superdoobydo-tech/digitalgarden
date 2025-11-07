@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/jc-by-night/lore-and-setting/anarch/people/stitch-caitiff/","tags":["#Anarch","#Vampire","#Caitiff","#NPC"]}
+{"dg-publish":true,"permalink":"/jc-by-night/lore-and-setting/anarch/people/stitch-caitiff/","tags":["Anarch","Vampire","Caitiff","NPC"]}
 ---
 
 Here's the updated write-up for Stitch, incorporating all the latest information and character dynamics from your notes:

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/jc-by-night/lore-and-setting/camerilla/locations/durand-tower-prince/","tags":["#haven","#Camerilla"]}
+{"dg-publish":true,"permalink":"/jc-by-night/lore-and-setting/camerilla/locations/durand-tower-prince/","tags":["haven","Camerilla"]}
 ---
 
 ### Durand Tower: Haven Details

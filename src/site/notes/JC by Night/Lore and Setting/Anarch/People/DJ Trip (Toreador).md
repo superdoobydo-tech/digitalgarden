@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/jc-by-night/lore-and-setting/anarch/people/dj-trip-toreador/","tags":["#Anarch","#Vampire","#Toreador","#NPC"]}
+{"dg-publish":true,"permalink":"/jc-by-night/lore-and-setting/anarch/people/dj-trip-toreador/","tags":["Anarch","Vampire","Toreador","NPC"]}
 ---
 
 Here's the updated write-up for DJ Trip, incorporating all the latest information and character dynamics from the other notes:

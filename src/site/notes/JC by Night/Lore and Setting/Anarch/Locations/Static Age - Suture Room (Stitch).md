@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/jc-by-night/lore-and-setting/anarch/locations/static-age-suture-room-stitch/","tags":["#Anarch","#haven"]}
+{"dg-publish":true,"permalink":"/jc-by-night/lore-and-setting/anarch/locations/static-age-suture-room-stitch/","tags":["Anarch","haven"]}
 ---
 
 The Suture Room: Haven Details

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/jc-by-night/lore-and-setting/camerilla/locations/gilded-cage-vip-room-sal/","tags":["#haven","#Camerilla"]}
+{"dg-publish":true,"permalink":"/jc-by-night/lore-and-setting/camerilla/locations/gilded-cage-vip-room-sal/","tags":["haven","Camerilla"]}
 ---
 
 Here's the updated description for [[JC by Night/Lore and Setting/Camerilla/Locations/Gilded Cage VIP Room (Sal)\|Gilded Cage VIP Room (Sal)]], taking into account Sal's new character as the "Desperate Promoter" leveraging his club's Elysium status:

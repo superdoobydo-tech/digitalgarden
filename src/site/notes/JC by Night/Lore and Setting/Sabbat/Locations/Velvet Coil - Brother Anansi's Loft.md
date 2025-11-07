@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/jc-by-night/lore-and-setting/sabbat/locations/velvet-coil-brother-anansi-s-loft/","tags":["#sabbat","#haven","#Ministry"]}
+{"dg-publish":true,"permalink":"/jc-by-night/lore-and-setting/sabbat/locations/velvet-coil-brother-anansi-s-loft/","tags":["sabbat","haven","Ministry"]}
 ---
 
 Here's a haven write-up for "Brother Anansi," styled similarly to the other detailed haven descriptions:

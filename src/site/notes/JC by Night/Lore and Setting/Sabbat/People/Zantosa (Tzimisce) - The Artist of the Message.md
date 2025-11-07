@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/jc-by-night/lore-and-setting/sabbat/people/zantosa-tzimisce-the-artist-of-the-message/","tags":["#sabbat","#Tzimisce","#NPC"]}
+{"dg-publish":true,"permalink":"/jc-by-night/lore-and-setting/sabbat/people/zantosa-tzimisce-the-artist-of-the-message/","tags":["sabbat","Tzimisce","NPC"]}
 ---
 
 ### **Zantosa (Tzimisce) - The Artist of the Message**

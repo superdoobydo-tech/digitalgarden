@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/jc-by-night/lore-and-setting/anarch/locations/the-iron-rail-red/","tags":["#Anarch","#haven"]}
+{"dg-publish":true,"permalink":"/jc-by-night/lore-and-setting/anarch/locations/the-iron-rail-red/","tags":["Anarch","haven"]}
 ---
 
 ### **The Iron Rail: Haven Details**

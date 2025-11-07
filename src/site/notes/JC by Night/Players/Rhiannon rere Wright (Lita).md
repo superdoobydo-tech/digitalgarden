@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/jc-by-night/players/rhiannon-rere-wright-lita/","tags":["#PlayerCharacter","#Vampire","#Salubri","#haven"]}
+{"dg-publish":true,"permalink":"/jc-by-night/players/rhiannon-rere-wright-lita/","tags":["PlayerCharacter","Vampire","Salubri","haven"]}
 ---
 
 # Rhiannon Wright

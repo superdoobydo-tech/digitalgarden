@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/jc-by-night/lore-and-setting/hoboken-autarkis/people/ignacio-archado-scourge/","tags":["#Vampire","#NPC","#Lasombra","#HobAutarkis"]}
+{"dg-publish":true,"permalink":"/jc-by-night/lore-and-setting/hoboken-autarkis/people/ignacio-archado-scourge/","tags":["Vampire","NPC","Lasombra","HobAutarkis"]}
 ---
 
 ### Ignacio Archado (Lasombra) - The Countess's Silent Blade

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/jc-by-night/lore-and-setting/sabbat/people/bianca-bones-rosselini-hecata-the-ghost-in-the-static/","tags":["#NPC","#Hecata","#sabbat"]}
+{"dg-publish":true,"permalink":"/jc-by-night/lore-and-setting/sabbat/people/bianca-bones-rosselini-hecata-the-ghost-in-the-static/","tags":["NPC","Hecata","sabbat"]}
 ---
 
 ### **Bianca "Bones" Rosselini (Hecata** _**antitribu**_**) - The Ghost in the Static**

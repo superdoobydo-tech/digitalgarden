@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/jc-by-night/lore-and-setting/anarch/people/red-valenti-brujah-the-insurgent-baron/","tags":["#Anarch","#Vampire","#Brujah","#NPC"]}
+{"dg-publish":true,"permalink":"/jc-by-night/lore-and-setting/anarch/people/red-valenti-brujah-the-insurgent-baron/","tags":["Anarch","Vampire","Brujah","NPC"]}
 ---
 
 Here's the updated write-up for "Red" Valenti, incorporating all the latest information and character dynamics from your notes:

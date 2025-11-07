@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/jc-by-night/players/grayson-the-wall-walker-chill/","tags":["#PlayerCharacter","#Ventrue","#Vampire","#haven"]}
+{"dg-publish":true,"permalink":"/jc-by-night/players/grayson-the-wall-walker-chill/","tags":["PlayerCharacter","Ventrue","Vampire","haven"]}
 ---
 
 

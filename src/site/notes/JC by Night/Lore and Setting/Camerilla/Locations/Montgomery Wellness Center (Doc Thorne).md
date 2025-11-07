@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/jc-by-night/lore-and-setting/camerilla/locations/montgomery-wellness-center-doc-thorne/","tags":["#haven","#Camerilla"]}
+{"dg-publish":true,"permalink":"/jc-by-night/lore-and-setting/camerilla/locations/montgomery-wellness-center-doc-thorne/","tags":["haven","Camerilla"]}
 ---
 
 #### The Montgomery Wellness Center: Haven Details

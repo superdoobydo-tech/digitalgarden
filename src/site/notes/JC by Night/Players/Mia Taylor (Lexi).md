@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/jc-by-night/players/mia-taylor-lexi/","tags":["#PlayerCharacter","#Toreador","#Vampire"]}
+{"dg-publish":true,"permalink":"/jc-by-night/players/mia-taylor-lexi/","tags":["PlayerCharacter","Toreador","Vampire"]}
 ---
 
 # Mia Taylor

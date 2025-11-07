@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/jc-by-night/lore-and-setting/sabbat/locations/silent-parlor-funeral-home-bianca/","tags":["#haven","#sabbat","#Hecata"]}
+{"dg-publish":true,"permalink":"/jc-by-night/lore-and-setting/sabbat/locations/silent-parlor-funeral-home-bianca/","tags":["haven","sabbat","Hecata"]}
 ---
 
 To call Bianca's haven a "funeral home" is to acknowledge its original purpose, but not its current, chilling function. It is a necromantic workshop, a repository of lingering grief, and a stage for the dead to dance to her morbid tune. Located in a forgotten, blighted residential block, the abandoned Silent Parlor Funeral Home serves as Bianca's personal domain, a place where the veil between life and death is thin, and the whispers of the departed are her constant companions.

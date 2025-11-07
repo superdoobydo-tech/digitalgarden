@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/jc-by-night/lore-and-setting/camerilla/locations/njcu-archive-office/","tags":["#Camerilla","#haven"]}
+{"dg-publish":true,"permalink":"/jc-by-night/lore-and-setting/camerilla/locations/njcu-archive-office/","tags":["Camerilla","haven"]}
 ---
 
 #### The Archive Office: Haven Details

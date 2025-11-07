@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/jc-by-night/lore-and-setting/anarch/people/scrap-gangrel/","tags":["#Anarch","#Vampire","#Gangrel","#NPC"]}
+{"dg-publish":true,"permalink":"/jc-by-night/lore-and-setting/anarch/people/scrap-gangrel/","tags":["Anarch","Vampire","Gangrel","NPC"]}
 ---
 
 Here's the updated write-up for Scrap, integrating all the latest information and character dynamics from your notes:

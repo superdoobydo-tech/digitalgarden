@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/jc-by-night/lore-and-setting/sabbat/people/brother-anansi-ministry-the-temptor/","tags":["#sabbat","#NPC","#Ministry"]}
+{"dg-publish":true,"permalink":"/jc-by-night/lore-and-setting/sabbat/people/brother-anansi-ministry-the-temptor/","tags":["sabbat","NPC","Ministry"]}
 ---
 
 ### **"Brother Anansi" (Ministry** _**antitribu**_**) - The Temptor**

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/jc-by-night/lore-and-setting/camerilla/locations/petrova-s-garage/","tags":["#haven","#Petrova","#Camerilla"]}
+{"dg-publish":true,"permalink":"/jc-by-night/lore-and-setting/camerilla/locations/petrova-s-garage/","tags":["haven","Petrova","Camerilla"]}
 ---
 
 #### Petrova's Garage: Haven Details

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/jc-by-night/lore-and-setting/anarch/people/jinx-malkavian/","tags":["#Anarch","#Vampire","#Malkavian","#NPC"]}
+{"dg-publish":true,"permalink":"/jc-by-night/lore-and-setting/anarch/people/jinx-malkavian/","tags":["Anarch","Vampire","Malkavian","NPC"]}
 ---
 
 Here's the updated note for Jinx, combining the previous response about his relationships with the existing information:

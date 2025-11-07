@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/jc-by-night/lore-and-setting/anarch/locations/the-warren-scrap/","tags":["#Anarch","#haven"]}
+{"dg-publish":true,"permalink":"/jc-by-night/lore-and-setting/anarch/locations/the-warren-scrap/","tags":["Anarch","haven"]}
 ---
 
 ### **The Warren: Haven Details**

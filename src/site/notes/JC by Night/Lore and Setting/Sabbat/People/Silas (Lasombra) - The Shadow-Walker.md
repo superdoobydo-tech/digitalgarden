@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/jc-by-night/lore-and-setting/sabbat/people/silas-lasombra-the-shadow-walker/","tags":["#NPC","#Lasombra","#sabbat"]}
+{"dg-publish":true,"permalink":"/jc-by-night/lore-and-setting/sabbat/people/silas-lasombra-the-shadow-walker/","tags":["NPC","Lasombra","sabbat"]}
 ---
 
 ### **Silas (Lasombra) - The Shadow-Walker**

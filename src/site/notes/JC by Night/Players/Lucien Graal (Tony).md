@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/jc-by-night/players/lucien-graal-tony/","tags":["#Vampire","#PlayerCharacter","#Tremere"]}
+{"dg-publish":true,"permalink":"/jc-by-night/players/lucien-graal-tony/","tags":["Vampire","PlayerCharacter","Tremere"]}
 ---
 
 # Lucien Graal

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/jc-by-night/lore-and-setting/sabbat/locations/abandoned-st-jude-hospital-wing-zantosa/","tags":["#haven","#sabbat"]}
+{"dg-publish":true,"permalink":"/jc-by-night/lore-and-setting/sabbat/locations/abandoned-st-jude-hospital-wing-zantosa/","tags":["haven","sabbat"]}
 ---
 
 ### **Zantosa's Haven: The Disused Surgical Theater**

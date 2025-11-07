@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/jc-by-night/lore-and-setting/anarch/people/day-corps-thin-bloods/","tags":["#Anarch","#ThinBlood","#NPC"]}
+{"dg-publish":true,"permalink":"/jc-by-night/lore-and-setting/anarch/people/day-corps-thin-bloods/","tags":["Anarch","ThinBlood","NPC"]}
 ---
 
 Here's the updated write-up for the DayCorps, integrating all the information from your notes:
