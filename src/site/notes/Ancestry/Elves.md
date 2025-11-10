@@ -5,7 +5,9 @@
 ## Historical Background: Elves
 
 The elves once ruled the world with elegance and precision. Their cities shimmered with solar spires, moonlit sanctuaries, and deep-rooted groves—monuments to their obsession with order, legacy, and racial purity. Beneath this beauty, however, lay a brutal truth: their society was built on an unforgiving caste system, one that elevated bloodlines and crushed dissent. Over time, this rigid hierarchy corroded their unity and hollowed their greatness from within.
+
 ![[Kazimir's Computer.html]]
+
 When the gods died and magic vanished from the world, the lower castes erupted in revolt. The ancient elven empires shattered under the weight of their own divisions. In the aftermath, most elves retreated to the ancestral lands of their respective castes—Verdant Elves to the forests, Skyrend Elves to the mountains, Noctari to the deep caves, and Aurari to the high spires. There, they built new strongholds and cities—not to restore unity, but to continue subjugating the so-called "sub races" from entrenched positions of power.
 
 Even in exile, elven tribes continued to war among themselves over racial zealotry and caste supremacy. Yet despite their internal strife, they maintained dominance for centuries. Their quick wit, strategic placement of cities, and mastery of terrain made their strongholds nearly impenetrable. With lifespans stretching across generations, elven warriors honed their skills over decades, while their leaders wielded centuries of tactical knowledge. These advantages allowed them to suppress and exploit the rising sub races that shared the land—delaying the inevitable collapse of their fractured legacy.
